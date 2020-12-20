@@ -1,0 +1,13 @@
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.exe
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.deps.json
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.runtimeconfig.json
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.runtimeconfig.dev.json
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.dll
+D:\CSharpProjects\WoodsonsCalculator2020\bin\Release\netcoreapp3.1\WoodsonsCalculator2020.pdb
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.csprojAssemblyReference.cache
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.AssemblyInfoInputs.cache
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.AssemblyInfo.cs
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.dll
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.pdb
+D:\CSharpProjects\WoodsonsCalculator2020\obj\Release\netcoreapp3.1\WoodsonsCalculator2020.genruntimeconfig.cache
